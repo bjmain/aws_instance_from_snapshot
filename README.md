@@ -11,4 +11,5 @@ This protocol assumes you have a snapshot that you want to launch as an instance
 
 
 sudo apt-get install htop
-# Change instance type (upgrade or downgrade): 1. stop instance. 2. change instance type under "Actions" type. 3. start
+Change instance type (upgrade or downgrade): 
+1. stop instance. 2. change instance type under "Actions" type. 3. start
