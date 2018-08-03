@@ -8,3 +8,6 @@ This protocol assumes you have a snapshot that you want to launch as an instance
 4. Force detach the root volume: Search in volumes then force detach.
 5. Attach the snapshot volume: paste new instance ID and device path (/dev/sda1).
 6. Start instance
+
+
+sudo apt-get install htop
